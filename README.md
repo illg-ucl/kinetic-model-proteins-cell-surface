@@ -42,7 +42,7 @@ A brief description of the model can be found in the pdf file **"suppl_info_publ
 
 Additionally, the pdf file **"CooperativeBinding_EGFR_Aug2019.pdf"** is a copy of the Mathematica Notebook with all the detailed explanations and outputs.
 
-A **Mathematica notebook file (.nb)** with all outputs can be provided upon request (it is a large 27.5 MB file with outputs that I cannot upload here as it is too large, and which I cannot modify to remove outputs as I no longer have a Mathematica License). 
+A **Mathematica notebook file (.nb)** (Mathematica 11.0) with all outputs can be provided upon request (large 27.5 MB file with outputs; I cannot upload it here as it is too large, and not easy to remove outputs as I no longer have a Mathematica License). Uploaded "CooperativeBinding_EGFR_Jan2020_no_ou.nb", which I generated using "mathematica-notebook-filter" (https://github.com/JP-Ellis/mathematica-notebook-filter) to strip the original notebook from outputs and superfluous information (not sure this worked, cannot check, file is still 23 MB).
 
 The model is a multi-state time-dependent kinetics model for ligand binding to receptor monomers and dimers, incorporating homo- and hetero-dimerization of ligated and unligated receptors, internalization of ligated receptors via endocytosis and subsequent recycling of receptors to the plasma membrane. 
 
